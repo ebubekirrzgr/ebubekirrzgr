@@ -25,3 +25,14 @@
   <code><img title="GitHub" height="25" src="https://github.com/ebubekirrzgr/ebubekirrzgr/blob/master/images/github.svg"></code>
 </p>
 <hr>
+<hr>
+<h2 align="center"> Contact & Links</h2>
+<br>
+<p align="center">
+ <a href="mailto:ebubekirrzgr@gmail.com"><img src="https://img.icons8.com/color/96/000000/gmail.png" alt="email"/></a>
+ <a href="https://www.linkedin.com/in/ebubekir-ruzgar"><img src="https://img.icons8.com/color/96/000000/linkedin.png" alt="linkedin"/></a>
+ <a href="https://open.spotify.com/user/ebubekirrzgr"><img src="https://img.icons8.com/color/96/000000/spotify--v1.png" alt="spotify"/></a>
+ <a href="https://medium.com/@ebubekirrzgr"><img src="https://img.icons8.com/color/96/000000/medium-logo.png" alt="medium"/></a>
+ 
+</p>
+<hr>
