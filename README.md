@@ -3,9 +3,8 @@
     <img src="https://readme-typing-svg.herokuapp.com?font=Glory&size=25&width=500&lines=Hello%2C+I'm+Ebubekir.+Welcome+to+my+GitHub+profile+...">
   </a>
 </h1>
-<img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="500">
-<hr>
 <div align="center">
+<img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="500">
 <h3><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 👨🏼‍💻 Ebubekir Rüzğar | 💻 Front-end Developer | 🛸 İstanbul-Bursa,Turkey <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"></h3>
 </div>
 
