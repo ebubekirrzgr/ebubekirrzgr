@@ -9,9 +9,11 @@
 </div>
 <hr>
 <h2 align="center">📖 About Me 📖</h2>
-<br>
+    <br>
     🖥 Software Engineer & Front-end Developer
+    <br>
     🎓 I graduated with a bachelor's degree in Software Engineering from Manisa Celal Bayar University. 
+    <br>
     📚 I’m currently learning React.
 <hr>
 <h2 align="center">🔥 Languages & Frameworks & Tools & Abilities 🔥</h2>
