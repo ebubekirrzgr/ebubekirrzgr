@@ -7,6 +7,11 @@
 <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="500">
 <h3><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 👨🏼‍💻 Ebubekir Rüzğar | 💻 Front-end Developer | 🛸 İstanbul-Bursa,Turkey <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"></h3>
 </div>
+<hr>
+<h2 align="center">📖 About Me 📖</h2>
+<br>
+    - 🖥 Software Engineer & Front-end Developer
+    - I am 24 years old and received a bachelor's degree in software engineering from Manisa Celal Bayar University this year. Javascript frameworks are easier for me to learn than other languages or frameworks. I can quickly adapt to a new environment. I love teamwork and socializing with people. If I have to describe myself in general terms, I have a cheerful, energetic, and fun personality.
 
 
 <hr>
@@ -30,8 +35,7 @@
   <code><img title="GitHub" height="50" src="https://github.com/ebubekirrzgr/ebubekirrzgr/blob/master/images/github.svg"></code>
 </p>
 <hr>
-<hr>
-<h2 align="center"> Contact & Links</h2>
+<h2 align="center">📪 Contact & Links 📪</h2>
 <br>
 <p align="center">
  <a href="mailto:ebubekirrzgr@gmail.com"><img src="https://img.icons8.com/color/96/000000/gmail.png" alt="email"/></a>
