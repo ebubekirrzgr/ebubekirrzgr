@@ -8,6 +8,7 @@
 <h3><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 👨🏼‍💻 Ebubekir Rüzğar | 💻 Front-end Developer | 🛸 İstanbul-Bursa,Turkey <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"></h3>
 </div>
 <hr>
+<div align="center">
 <h2 align="center">📖 About Me 📖</h2>
     <br>
     🖥 Software Engineer & Front-end Developer
@@ -16,6 +17,7 @@
     <br>
     📚 I’m currently learning React.
 <hr>
+</div>
 <h2 align="center">🔥 Languages & Frameworks & Tools & Abilities 🔥</h2>
 <br>
 <p align="center">
