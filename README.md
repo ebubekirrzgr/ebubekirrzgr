@@ -8,10 +8,9 @@
 <h2 align="center">🔥 Languages & Frameworks & Tools & Abilities 🔥</h2>
 <br>
 <p align="center">
-  <code><img title="C" height="25" src="https://github.com/zumrudu-anka/zumrudu-anka/blob/master/images/c.svg"></code>
-  <code><img title="C#" height="25" src="https://github.com/zumrudu-anka/zumrudu-anka/blob/master/images/cSharp.svg"></code>
-  <code><img title="Javascript" height="25" src="https://github.com/zumrudu-anka/zumrudu-anka/blob/master/images/javascript.svg"></code>
-  <code><img title="Problem Solving" height="25" src="https://github.com/zumrudu-anka/zumrudu-anka/blob/master/images/problemSolving.png"></code>
+  <code><img title="C" height="25" src="https://github.com/ebubekirrzgr/ebubekirrzgr/blob/master/images/c.svg"></code>
+  <code><img title="C#" height="25" src="https://github.com/ebubekirrzgr/ebubekirrzgr/blob/master/images/cSharp.svg"></code>
+  <code><img title="Javascript" height="25" src="https://github.com/ebubekirrzgr/ebubekirrzgr/blob/master/images/javascript.svg"></code>
   <code><img title="HTML5" height="25" src="https://github.com/zumrudu-anka/zumrudu-anka/blob/master/images/html5.svg"></code>
   <code><img title="CSS" height="25" src="https://github.com/zumrudu-anka/zumrudu-anka/blob/master/images/css.svg"></code>
   <code><img title="SASS" height="25" src="https://github.com/zumrudu-anka/zumrudu-anka/blob/master/images/sass.svg"></code>
