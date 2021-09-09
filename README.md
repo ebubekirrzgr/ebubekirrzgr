@@ -10,10 +10,9 @@
 <hr>
 <h2 align="center">📖 About Me 📖</h2>
 <br>
-    - 🖥 Software Engineer & Front-end Developer
-    - I am 24 years old and received a bachelor's degree in software engineering from Manisa Celal Bayar University this year. Javascript frameworks are easier for me to learn than other languages or frameworks. I can quickly adapt to a new environment. I love teamwork and socializing with people. If I have to describe myself in general terms, I have a cheerful, energetic, and fun personality.
-
-
+    🖥 Software Engineer & Front-end Developer
+    🎓 I graduated with a bachelor's degree in Software Engineering from Manisa Celal Bayar University. 
+    📚 I’m currently learning React.
 <hr>
 <h2 align="center">🔥 Languages & Frameworks & Tools & Abilities 🔥</h2>
 <br>
