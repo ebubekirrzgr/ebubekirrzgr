@@ -23,7 +23,6 @@
 <h2 align="center">🔥 Languages & Frameworks & Tools & Abilities 🔥</h2>
 <br>
 <p align="center">
-  <code><img title="C" height="50" src="https://github.com/ebubekirrzgr/ebubekirrzgr/blob/master/images/c.svg"></code>
   <code><img title="C#" height="50" src="https://github.com/ebubekirrzgr/ebubekirrzgr/blob/master/images/cSharp.svg"></code>
   <code><img title="Javascript" height="50" src="https://github.com/ebubekirrzgr/ebubekirrzgr/blob/master/images/javascript.svg"></code>
   <code><img title="HTML5" height="50" src="https://github.com/ebubekirrzgr/ebubekirrzgr/blob/master/images/html5.svg"></code>
