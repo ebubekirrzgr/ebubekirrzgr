@@ -34,8 +34,7 @@
   <code><img title="AngularJS" height="50" src="https://github.com/ebubekirrzgr/ebubekirrzgr/blob/master/images/angularjs.png"></code>
   <code><img title="Git" height="50" src="https://github.com/ebubekirrzgr/ebubekirrzgr/blob/master/images/git-original.svg"></code>
   <code><img title="Visual Studio Code" height="50" src="https://github.com/ebubekirrzgr/ebubekirrzgr/blob/master/images/vscode.png"></code>
-  <code><img title="Microsoft Visual Studio" height="50" src="https://github.com/ebubekirrzgr/ebubekirrzgr/blob/master/images/visualstudio.png"></code>
-  <code><img title="JQuery" height="50" src="https://github.com/ebubekirrzgr/ebubekirrzgr/blob/master/images/jquery-original.svg"></code>
+  <code><img title="Microsoft Visual Studio" height="50" src="https://github.com/ebubekirrzgr/ebubekirrzgr/blob/master/images/visualstudio.png"></code>  
   <code><img title="JSON" height="50" src="https://github.com/ebubekirrzgr/ebubekirrzgr/blob/master/images/json.svg"></code>
   <code><img title="GitHub" height="50" src="https://github.com/ebubekirrzgr/ebubekirrzgr/blob/master/images/github.svg"></code>
 </p>
