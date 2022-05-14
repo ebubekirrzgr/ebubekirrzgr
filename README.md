@@ -30,7 +30,9 @@
   <code><img title="CSS" height="50" src="https://github.com/ebubekirrzgr/ebubekirrzgr/blob/master/images/css.svg"></code>
   <code><img title="SASS" height="50" src="https://github.com/ebubekirrzgr/ebubekirrzgr/blob/master/images/sass.svg"></code>
   <code><img title="React" height="50" src="https://github.com/ebubekirrzgr/ebubekirrzgr/blob/master/images/react-original.svg"></code>
+    
   <code><img title="Redux" height="50" src="https://github.com/ebubekirrzgr/ebubekirrzgr/blob/master/images/redux.svg"></code>
+  <code><img title="NextJS" height="50" src="https://github.com/ebubekirrzgr/ebubekirrzgr/blob/master/images/next-js.svg"></code>
   <code><img title="AngularJS" height="50" src="https://github.com/ebubekirrzgr/ebubekirrzgr/blob/master/images/angularjs.png"></code>
   <code><img title="Git" height="50" src="https://github.com/ebubekirrzgr/ebubekirrzgr/blob/master/images/git-original.svg"></code>
   <code><img title="Visual Studio Code" height="50" src="https://github.com/ebubekirrzgr/ebubekirrzgr/blob/master/images/vscode.png"></code>
@@ -47,6 +49,6 @@
  <a href="https://www.linkedin.com/in/ebubekir-ruzgar"><img src="https://img.icons8.com/color/96/000000/linkedin.png" alt="linkedin"/></a>
  <a href="https://open.spotify.com/user/ebubekirrzgr"><img src="https://img.icons8.com/color/96/000000/spotify--v1.png" alt="spotify"/></a>
  <a href="https://medium.com/@ebubekirrzgr"><img src="https://img.icons8.com/color/96/000000/medium-logo.png" alt="medium"/></a>
- 
+
 </p>
 <hr>
