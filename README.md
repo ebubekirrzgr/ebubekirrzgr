@@ -28,8 +28,7 @@
   <code><img title="HTML5" height="50" src="https://github.com/ebubekirrzgr/ebubekirrzgr/blob/master/images/html5.svg"></code>
   <code><img title="CSS" height="50" src="https://github.com/ebubekirrzgr/ebubekirrzgr/blob/master/images/css.svg"></code>
   <code><img title="SASS" height="50" src="https://github.com/ebubekirrzgr/ebubekirrzgr/blob/master/images/sass.svg"></code>
-  <code><img title="React" height="50" src="https://github.com/ebubekirrzgr/ebubekirrzgr/blob/master/images/react-original.svg"></code>
-    
+  <code><img title="React" height="50" src="https://github.com/ebubekirrzgr/ebubekirrzgr/blob/master/images/react-original.svg"></code>    
   <code><img title="Redux" height="50" src="https://github.com/ebubekirrzgr/ebubekirrzgr/blob/master/images/redux.svg"></code>
   <code><img title="NextJS" height="50" src="https://github.com/ebubekirrzgr/ebubekirrzgr/blob/master/images/next-js.svg"></code>
   <code><img title="AngularJS" height="50" src="https://github.com/ebubekirrzgr/ebubekirrzgr/blob/master/images/angularjs.png"></code>
