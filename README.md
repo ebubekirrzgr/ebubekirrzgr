@@ -33,14 +33,14 @@
   <code><img title="Redux" height="50" src="https://github.com/ebubekirrzgr/ebubekirrzgr/blob/master/images/redux.svg"></code>
   <code><img title="NextJS" height="50" src="https://github.com/ebubekirrzgr/ebubekirrzgr/blob/master/images/next-js.svg"></code>
   <code><img title="AngularJS" height="50" src="https://github.com/ebubekirrzgr/ebubekirrzgr/blob/master/images/angularjs.png"></code>
-
+</p>
+<div align="center">
 <code><img title="Git" height="50" src="https://github.com/ebubekirrzgr/ebubekirrzgr/blob/master/images/git-original.svg"></code>
 <code><img title="Visual Studio Code" height="50" src="https://github.com/ebubekirrzgr/ebubekirrzgr/blob/master/images/vscode.png"></code>
 <code><img title="Microsoft Visual Studio" height="50" src="https://github.com/ebubekirrzgr/ebubekirrzgr/blob/master/images/visualstudio.png"></code>  
- <code><img title="JSON" height="50" src="https://github.com/ebubekirrzgr/ebubekirrzgr/blob/master/images/json.svg"></code>
+<code><img title="JSON" height="50" src="https://github.com/ebubekirrzgr/ebubekirrzgr/blob/master/images/json.svg"></code>
 <code><img title="GitHub" height="50" src="https://github.com/ebubekirrzgr/ebubekirrzgr/blob/master/images/github.svg"></code>
-
-</p>
+</div>
 <hr>
 <h2 align="center">📪 Contact & Links 📪</h2>
 <br>
