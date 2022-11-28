@@ -5,7 +5,7 @@
 </h1>
 <div align="center">
 <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="500">
-<h3><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 👨🏼‍💻 Ebubekir Rüzğar | 💻 Front-end Developer | 🛸 İstanbul-Bursa,Turkey <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"></h3>
+<h3><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 👨🏼‍💻 Ebubekir Rüzgar | 💻 Front-end Developer | 🛸 İstanbul-Bursa,Turkey <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"></h3>
 </div>
 <hr>
 <div align="center">
