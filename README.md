@@ -11,7 +11,7 @@
 <div align="center">
 <h2 align="center">📖 About Me 📖</h2>
     <br>
-    🖥 Hi, I'm Ebubekir Rüzğar, Software Engineer & Front-end Developer
+    🖥 Hi, I'm Ebubekir Rüzgar, Software Engineer & Front-end Developer
     <br>
     🎓 I graduated with a bachelor's degree in Software Engineering from Manisa Celal Bayar University. 
     <br>
