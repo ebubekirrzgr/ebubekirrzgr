@@ -39,7 +39,6 @@
 <code><img title="Visual Studio Code" height="50" src="https://github.com/ebubekirrzgr/ebubekirrzgr/blob/master/images/vscode.png"></code>
 <code><img title="Microsoft Visual Studio" height="50" src="https://github.com/ebubekirrzgr/ebubekirrzgr/blob/master/images/visualstudio.png"></code>  
 <code><img title="JSON" height="50" src="https://github.com/ebubekirrzgr/ebubekirrzgr/blob/master/images/json.svg"></code>
-<code><img title="GitHub" height="50" src="https://github.com/ebubekirrzgr/ebubekirrzgr/blob/master/images/github.svg"></code>
 </div>
 <hr>
 <h2 align="center">📪 Contact & Links 📪</h2>
